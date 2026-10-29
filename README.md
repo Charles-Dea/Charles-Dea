@@ -1,1 +1,1 @@
-My name is Charles Dea (pronounced day). I'm currently a sophomore at the University of Dallas. My favorite language is C and I have some experience in developing games and game engines.
+My name is Charles Dea (pronounced day). I'm currently a student at the University of Dallas expecting to graduate in May 2028. My favorite language is C and I have some experience in developing games and game engines.
